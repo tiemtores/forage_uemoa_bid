@@ -1,0 +1,161 @@
+ID_Station,Nom,Pays,Commune,Type,Etat,Debit_m3h,Profondeur_m,Annee_Installation,latitude,longitude
+ST-BÉN-000,Station Bénin 1,Bénin,Commune 1,Forage,En maintenance,9.5,143,2013,8.68600383025911,2.743157812917484
+ST-BÉN-001,Station Bénin 2,Bénin,Commune 2,Château d'eau,En panne,6.0,118,2018,8.481676726017183,1.3794505896921057
+ST-BÉN-002,Station Bénin 3,Bénin,Commune 3,Château d'eau,En panne,5.4,90,2005,9.244334712938194,2.6902551008445363
+ST-BÉN-003,Station Bénin 4,Bénin,Commune 4,Château d'eau,En maintenance,9.8,86,2018,8.178705845714848,3.664009952010744
+ST-BÉN-004,Station Bénin 5,Bénin,Commune 5,Forage,En panne,6.6,132,2009,10.216193342991769,1.9012527800457706
+ST-BÉN-005,Station Bénin 6,Bénin,Commune 6,Forage,En panne,6.3,146,2023,9.49562577814968,2.07245552713462
+ST-BÉN-006,Station Bénin 7,Bénin,Commune 7,Puits moderne,En maintenance,17.0,99,2008,9.363390696207011,1.0818795135558164
+ST-BÉN-007,Station Bénin 8,Bénin,Commune 8,Forage,En panne,9.5,86,2008,10.767409723741352,2.822244476007579
+ST-BÉN-008,Station Bénin 9,Bénin,Commune 9,Château d'eau,En panne,5.6,57,2009,9.929966485289185,1.7052016103857088
+ST-BÉN-009,Station Bénin 10,Bénin,Commune 10,Château d'eau,Fonctionnel,9.9,131,2021,8.510350204354035,2.7217273718923263
+ST-BÉN-010,Station Bénin 11,Bénin,Commune 11,Forage,En maintenance,11.3,107,2020,9.082845589124428,3.784192337161646
+ST-BÉN-011,Station Bénin 12,Bénin,Commune 12,Forage,En maintenance,13.5,123,2017,8.339845985877465,1.8699909025085237
+ST-BÉN-012,Station Bénin 13,Bénin,Commune 13,Puits moderne,Fonctionnel,17.4,102,2007,7.872782378424651,2.6674337136407975
+ST-BÉN-013,Station Bénin 14,Bénin,Commune 14,Forage,En maintenance,5.7,105,2015,8.024829472014225,3.411320147423771
+ST-BÉN-014,Station Bénin 15,Bénin,Commune 15,Château d'eau,En panne,4.6,87,2021,7.8345505242696,2.141219589303055
+ST-BÉN-015,Station Bénin 16,Bénin,Commune 16,Puits moderne,En panne,6.3,67,2018,8.12829039641393,1.9769420489923621
+ST-BÉN-016,Station Bénin 17,Bénin,Commune 17,Forage,En panne,4.3,107,2013,8.03705142942357,3.029851862083035
+ST-BÉN-017,Station Bénin 18,Bénin,Commune 18,Château d'eau,Fonctionnel,10.2,73,2009,10.651035244349009,1.0780169466448775
+ST-BÉN-018,Station Bénin 19,Bénin,Commune 19,Puits moderne,En panne,2.9,60,2007,8.127300753946908,3.235871995398692
+ST-BÉN-019,Station Bénin 20,Bénin,Commune 20,Château d'eau,En maintenance,16.2,51,2023,8.150510212497718,3.4911162491287966
+ST-BUR-000,Station Burkina Faso 1,Burkina Faso,Commune 1,Forage,En panne,7.6,43,2015,11.384632992678272,-1.465410165508708
+ST-BUR-001,Station Burkina Faso 2,Burkina Faso,Commune 2,Puits moderne,Fonctionnel,3.4,128,2011,12.934744513096742,-0.7970746163105615
+ST-BUR-002,Station Burkina Faso 3,Burkina Faso,Commune 3,Château d'eau,En panne,6.4,139,2006,12.470922920053365,-2.159966056438348
+ST-BUR-003,Station Burkina Faso 4,Burkina Faso,Commune 4,Puits moderne,En panne,17.8,59,2014,12.154624060843863,-2.1277226411233676
+ST-BUR-004,Station Burkina Faso 5,Burkina Faso,Commune 5,Puits moderne,En maintenance,6.6,94,2009,11.843693089032326,-2.235189407301944
+ST-BUR-005,Station Burkina Faso 6,Burkina Faso,Commune 6,Forage,En maintenance,7.3,149,2008,12.63356050493584,-0.23505593400643532
+ST-BUR-006,Station Burkina Faso 7,Burkina Faso,Commune 7,Château d'eau,En maintenance,15.8,121,2005,12.054629105887303,-0.39108335025892327
+ST-BUR-007,Station Burkina Faso 8,Burkina Faso,Commune 8,Château d'eau,Fonctionnel,10.9,30,2005,11.644195118513835,-1.7524965767600291
+ST-BUR-008,Station Burkina Faso 9,Burkina Faso,Commune 9,Forage,Fonctionnel,15.4,46,2013,12.926191992523869,-2.4086389737254295
+ST-BUR-009,Station Burkina Faso 10,Burkina Faso,Commune 10,Puits moderne,En panne,10.1,48,2013,12.176135219518928,-3.0658683790074517
+ST-BUR-010,Station Burkina Faso 11,Burkina Faso,Commune 11,Château d'eau,En maintenance,3.3,64,2013,11.479900479479792,-1.0164936812487495
+ST-BUR-011,Station Burkina Faso 12,Burkina Faso,Commune 12,Forage,En maintenance,10.8,75,2012,11.22629715933665,-0.6151134793581488
+ST-BUR-012,Station Burkina Faso 13,Burkina Faso,Commune 13,Château d'eau,Fonctionnel,12.3,66,2007,13.10769620216976,-0.10866911934890888
+ST-BUR-013,Station Burkina Faso 14,Burkina Faso,Commune 14,Puits moderne,En panne,16.7,147,2007,12.773914774143362,-2.2021553939013407
+ST-BUR-014,Station Burkina Faso 15,Burkina Faso,Commune 15,Forage,Fonctionnel,9.3,115,2017,13.28076740409499,-1.2975899147513472
+ST-BUR-015,Station Burkina Faso 16,Burkina Faso,Commune 16,Forage,En panne,13.0,51,2010,11.121118817639067,-2.206135607434878
+ST-BUR-016,Station Burkina Faso 17,Burkina Faso,Commune 17,Puits moderne,En maintenance,11.5,65,2020,10.992827683770907,-0.9409250031684606
+ST-BUR-017,Station Burkina Faso 18,Burkina Faso,Commune 18,Forage,En panne,8.8,133,2019,13.685935254223692,-2.4328050712727736
+ST-BUR-018,Station Burkina Faso 19,Burkina Faso,Commune 19,Forage,En panne,6.6,63,2008,12.413197032689517,-0.9925137015875687
+ST-BUR-019,Station Burkina Faso 20,Burkina Faso,Commune 20,Puits moderne,Fonctionnel,6.3,55,2006,12.98534776568618,-1.3386054032686514
+ST-CÔT-000,Station Côte d'Ivoire 1,Côte d'Ivoire,Commune 1,Forage,Fonctionnel,11.1,94,2020,7.2056760229987455,-4.5320708473143005
+ST-CÔT-001,Station Côte d'Ivoire 2,Côte d'Ivoire,Commune 2,Château d'eau,En panne,7.9,132,2007,6.780394511435203,-4.445342186862003
+ST-CÔT-002,Station Côte d'Ivoire 3,Côte d'Ivoire,Commune 3,Puits moderne,Fonctionnel,2.7,128,2019,8.474547840287102,-6.014229805184172
+ST-CÔT-003,Station Côte d'Ivoire 4,Côte d'Ivoire,Commune 4,Puits moderne,Fonctionnel,18.0,58,2008,8.474884837941062,-5.516753612123331
+ST-CÔT-004,Station Côte d'Ivoire 5,Côte d'Ivoire,Commune 5,Puits moderne,En panne,16.2,133,2015,8.481545419314047,-4.834061174594977
+ST-CÔT-005,Station Côte d'Ivoire 6,Côte d'Ivoire,Commune 6,Forage,En panne,16.5,125,2017,6.031417271596675,-4.821329621256373
+ST-CÔT-006,Station Côte d'Ivoire 7,Côte d'Ivoire,Commune 7,Puits moderne,En maintenance,16.7,72,2019,8.227645879805355,-6.490521664945372
+ST-CÔT-007,Station Côte d'Ivoire 8,Côte d'Ivoire,Commune 8,Forage,Fonctionnel,11.7,88,2017,7.872976998048522,-6.950978219574659
+ST-CÔT-008,Station Côte d'Ivoire 9,Côte d'Ivoire,Commune 9,Château d'eau,En maintenance,5.8,107,2018,6.375581175371087,-4.307240352503413
+ST-CÔT-009,Station Côte d'Ivoire 10,Côte d'Ivoire,Commune 10,Forage,En maintenance,7.6,57,2007,7.788022412375314,-4.434387775066089
+ST-CÔT-010,Station Côte d'Ivoire 11,Côte d'Ivoire,Commune 11,Puits moderne,Fonctionnel,7.9,113,2009,7.07495667932991,-5.2925706227308025
+ST-CÔT-011,Station Côte d'Ivoire 12,Côte d'Ivoire,Commune 12,Forage,Fonctionnel,7.6,117,2021,6.704101905919634,-4.535488063745307
+ST-CÔT-012,Station Côte d'Ivoire 13,Côte d'Ivoire,Commune 13,Puits moderne,En maintenance,2.8,113,2011,8.549964011566804,-4.928362658110113
+ST-CÔT-013,Station Côte d'Ivoire 14,Côte d'Ivoire,Commune 14,Château d'eau,Fonctionnel,12.3,66,2018,6.411416400399874,-6.014993932418851
+ST-CÔT-014,Station Côte d'Ivoire 15,Côte d'Ivoire,Commune 15,Forage,En maintenance,13.1,105,2009,8.534905717131858,-6.089328253346471
+ST-CÔT-015,Station Côte d'Ivoire 16,Côte d'Ivoire,Commune 16,Puits moderne,En panne,15.2,126,2013,6.770097077789318,-5.993865404089875
+ST-CÔT-016,Station Côte d'Ivoire 17,Côte d'Ivoire,Commune 17,Château d'eau,En panne,4.8,53,2023,7.569642245963212,-5.16386088227042
+ST-CÔT-017,Station Côte d'Ivoire 18,Côte d'Ivoire,Commune 18,Forage,En panne,9.0,115,2019,7.766060975974408,-5.519999736741056
+ST-CÔT-018,Station Côte d'Ivoire 19,Côte d'Ivoire,Commune 19,Château d'eau,En panne,12.4,97,2008,6.621400067776702,-5.336372630128279
+ST-CÔT-019,Station Côte d'Ivoire 20,Côte d'Ivoire,Commune 20,Château d'eau,Fonctionnel,13.7,148,2005,6.802028323007389,-6.464528610174901
+ST-GUI-000,Station Guinée-Bissau 1,Guinée-Bissau,Commune 1,Château d'eau,En maintenance,9.4,86,2019,10.752317440487422,-14.951799991508228
+ST-GUI-001,Station Guinée-Bissau 2,Guinée-Bissau,Commune 2,Puits moderne,Fonctionnel,10.6,45,2008,12.122656710392786,-16.580297171811598
+ST-GUI-002,Station Guinée-Bissau 3,Guinée-Bissau,Commune 3,Château d'eau,Fonctionnel,16.7,120,2007,10.828933898780193,-15.384525203291128
+ST-GUI-003,Station Guinée-Bissau 4,Guinée-Bissau,Commune 4,Château d'eau,En panne,12.5,49,2006,12.361346967788469,-16.105553707916222
+ST-GUI-004,Station Guinée-Bissau 5,Guinée-Bissau,Commune 5,Forage,En maintenance,3.5,52,2018,12.84357152329098,-13.985488345619448
+ST-GUI-005,Station Guinée-Bissau 6,Guinée-Bissau,Commune 6,Puits moderne,En panne,3.2,88,2005,11.514521168330731,-14.36623592837145
+ST-GUI-006,Station Guinée-Bissau 7,Guinée-Bissau,Commune 7,Puits moderne,Fonctionnel,15.0,114,2007,11.658792925443322,-15.243910129164936
+ST-GUI-007,Station Guinée-Bissau 8,Guinée-Bissau,Commune 8,Puits moderne,En maintenance,16.0,115,2010,12.813511658136413,-16.183856042670016
+ST-GUI-008,Station Guinée-Bissau 9,Guinée-Bissau,Commune 9,Puits moderne,Fonctionnel,5.0,145,2009,11.881891301974147,-15.124343411207262
+ST-GUI-009,Station Guinée-Bissau 10,Guinée-Bissau,Commune 10,Château d'eau,Fonctionnel,16.8,71,2014,12.194862130317425,-15.980840678370008
+ST-GUI-010,Station Guinée-Bissau 11,Guinée-Bissau,Commune 11,Forage,En maintenance,5.2,94,2008,10.521401499355466,-13.745810862430694
+ST-GUI-011,Station Guinée-Bissau 12,Guinée-Bissau,Commune 12,Château d'eau,En panne,13.8,116,2012,11.955724739811444,-16.049349155407867
+ST-GUI-012,Station Guinée-Bissau 13,Guinée-Bissau,Commune 13,Château d'eau,En maintenance,11.4,132,2010,10.424268849225891,-14.857536937121209
+ST-GUI-013,Station Guinée-Bissau 14,Guinée-Bissau,Commune 14,Château d'eau,En maintenance,14.7,112,2018,10.43236145726716,-14.567649368106354
+ST-GUI-014,Station Guinée-Bissau 15,Guinée-Bissau,Commune 15,Puits moderne,Fonctionnel,17.0,66,2005,13.254145709899523,-15.48314685412763
+ST-GUI-015,Station Guinée-Bissau 16,Guinée-Bissau,Commune 16,Château d'eau,En maintenance,11.8,72,2016,11.872024294609128,-14.33351209488648
+ST-GUI-016,Station Guinée-Bissau 17,Guinée-Bissau,Commune 17,Puits moderne,En maintenance,14.3,92,2016,13.29594778746802,-15.92488072345842
+ST-GUI-017,Station Guinée-Bissau 18,Guinée-Bissau,Commune 18,Forage,En panne,4.3,60,2005,11.302055894955775,-16.400455398715216
+ST-GUI-018,Station Guinée-Bissau 19,Guinée-Bissau,Commune 19,Château d'eau,En maintenance,14.9,91,2017,11.466932445510247,-15.899380053625194
+ST-GUI-019,Station Guinée-Bissau 20,Guinée-Bissau,Commune 20,Forage,Fonctionnel,15.7,122,2013,12.445845092014718,-13.778614707552803
+ST-MAL-000,Station Mali 1,Mali,Commune 1,Puits moderne,En maintenance,4.2,117,2023,17.015435331427927,-4.9030383704548415
+ST-MAL-001,Station Mali 2,Mali,Commune 2,Château d'eau,Fonctionnel,7.5,100,2010,18.190214896801404,-3.645328101194893
+ST-MAL-002,Station Mali 3,Mali,Commune 3,Puits moderne,Fonctionnel,6.0,129,2014,18.563275090293942,-3.23006485276858
+ST-MAL-003,Station Mali 4,Mali,Commune 4,Château d'eau,En maintenance,13.9,141,2022,16.52725932823471,-3.8416250070980613
+ST-MAL-004,Station Mali 5,Mali,Commune 5,Château d'eau,Fonctionnel,11.3,139,2015,16.821712711014545,-2.8034281125764835
+ST-MAL-005,Station Mali 6,Mali,Commune 6,Puits moderne,Fonctionnel,8.4,41,2017,17.412524615169072,-4.090770723877038
+ST-MAL-006,Station Mali 7,Mali,Commune 7,Château d'eau,En maintenance,6.9,89,2021,17.949212027394367,-2.7276221227610815
+ST-MAL-007,Station Mali 8,Mali,Commune 8,Château d'eau,En maintenance,11.2,123,2007,17.392265399876443,-3.0923963364825338
+ST-MAL-008,Station Mali 9,Mali,Commune 9,Puits moderne,Fonctionnel,5.2,48,2022,18.030419236503135,-3.2874532174914113
+ST-MAL-009,Station Mali 10,Mali,Commune 10,Puits moderne,En maintenance,16.4,62,2010,18.48039268939568,-5.084630196245838
+ST-MAL-010,Station Mali 11,Mali,Commune 11,Forage,En maintenance,14.2,39,2016,18.507183844106127,-5.248068717750726
+ST-MAL-011,Station Mali 12,Mali,Commune 12,Forage,En maintenance,4.8,75,2023,17.618383988823986,-2.9743809997664075
+ST-MAL-012,Station Mali 13,Mali,Commune 13,Forage,En panne,16.3,67,2017,18.278336049001922,-4.178875630883826
+ST-MAL-013,Station Mali 14,Mali,Commune 14,Château d'eau,En panne,8.5,124,2023,18.725544302054722,-4.76483822157602
+ST-MAL-014,Station Mali 15,Mali,Commune 15,Forage,En maintenance,9.4,81,2006,16.52118203891978,-2.757397786073546
+ST-MAL-015,Station Mali 16,Mali,Commune 16,Château d'eau,En maintenance,16.3,128,2013,16.4120912983618,-3.4940741880297383
+ST-MAL-016,Station Mali 17,Mali,Commune 17,Forage,Fonctionnel,12.8,88,2012,16.643115091730316,-4.451275555699407
+ST-MAL-017,Station Mali 18,Mali,Commune 18,Puits moderne,En maintenance,2.8,77,2020,16.87862770489673,-3.0405272650516073
+ST-MAL-018,Station Mali 19,Mali,Commune 19,Puits moderne,En maintenance,2.6,80,2023,17.779446287183575,-4.551896582638856
+ST-MAL-019,Station Mali 20,Mali,Commune 20,Forage,En panne,4.8,76,2021,17.496546384833852,-4.87192589731028
+ST-NIG-000,Station Niger 1,Niger,Commune 1,Forage,En panne,14.2,114,2013,17.27071230233145,6.735559445912527
+ST-NIG-001,Station Niger 2,Niger,Commune 2,Puits moderne,En panne,13.9,107,2006,17.21100073277473,6.787778655938075
+ST-NIG-002,Station Niger 3,Niger,Commune 3,Forage,En maintenance,9.9,55,2022,17.55855320996635,7.084712783983412
+ST-NIG-003,Station Niger 4,Niger,Commune 4,Forage,En maintenance,9.1,142,2023,18.11117944274578,7.62288997369353
+ST-NIG-004,Station Niger 5,Niger,Commune 5,Château d'eau,En panne,16.3,98,2021,17.378971576736404,7.815159791502324
+ST-NIG-005,Station Niger 6,Niger,Commune 6,Puits moderne,Fonctionnel,11.7,113,2014,18.772779190870715,7.812373572035689
+ST-NIG-006,Station Niger 7,Niger,Commune 7,Puits moderne,Fonctionnel,6.4,147,2013,18.109869993763045,7.447898880445276
+ST-NIG-007,Station Niger 8,Niger,Commune 8,Puits moderne,En maintenance,13.0,87,2006,17.096891954640864,7.64896381787181
+ST-NIG-008,Station Niger 9,Niger,Commune 9,Forage,En maintenance,3.7,137,2022,17.550363531302423,6.6108487819496
+ST-NIG-009,Station Niger 10,Niger,Commune 10,Forage,En panne,6.4,131,2010,18.06486706086195,9.173429951947163
+ST-NIG-010,Station Niger 11,Niger,Commune 11,Château d'eau,En panne,8.6,74,2012,17.1320307687314,8.42947544594103
+ST-NIG-011,Station Niger 12,Niger,Commune 12,Forage,Fonctionnel,15.7,65,2021,16.680543970046784,7.876551452033304
+ST-NIG-012,Station Niger 13,Niger,Commune 13,Forage,En maintenance,9.5,79,2019,18.952569312757255,7.040286176318453
+ST-NIG-013,Station Niger 14,Niger,Commune 14,Château d'eau,En maintenance,10.3,95,2006,18.47193914661184,8.159314604046871
+ST-NIG-014,Station Niger 15,Niger,Commune 15,Château d'eau,En panne,13.0,109,2010,17.30939540891151,9.106461438598467
+ST-NIG-015,Station Niger 16,Niger,Commune 16,Puits moderne,En maintenance,14.5,41,2008,16.17080641771962,8.90820571115916
+ST-NIG-016,Station Niger 17,Niger,Commune 17,Forage,En maintenance,11.4,130,2008,17.41056820315344,7.442454502831436
+ST-NIG-017,Station Niger 18,Niger,Commune 18,Forage,En maintenance,12.2,115,2011,18.65654374744888,8.67948152632383
+ST-NIG-018,Station Niger 19,Niger,Commune 19,Puits moderne,En maintenance,6.6,136,2006,18.471355211282287,8.97718930182159
+ST-NIG-019,Station Niger 20,Niger,Commune 20,Puits moderne,En maintenance,15.5,80,2008,17.440310737786767,8.81903249369062
+ST-SÉN-000,Station Sénégal 1,Sénégal,Commune 1,Forage,En panne,17.8,134,2020,13.709988913147182,-13.993375859969973
+ST-SÉN-001,Station Sénégal 2,Sénégal,Commune 2,Château d'eau,En panne,14.3,108,2011,15.989855681911475,-13.20865183578908
+ST-SÉN-002,Station Sénégal 3,Sénégal,Commune 3,Forage,En panne,14.3,147,2008,13.801310059405484,-13.695557525402549
+ST-SÉN-003,Station Sénégal 4,Sénégal,Commune 4,Forage,En maintenance,5.6,146,2010,13.885983180587315,-12.911022824684931
+ST-SÉN-004,Station Sénégal 5,Sénégal,Commune 5,Château d'eau,En maintenance,4.8,59,2020,13.570326306974895,-14.727837875584871
+ST-SÉN-005,Station Sénégal 6,Sénégal,Commune 6,Puits moderne,Fonctionnel,4.1,140,2013,13.888311116117112,-15.862405094800703
+ST-SÉN-006,Station Sénégal 7,Sénégal,Commune 7,Forage,En panne,2.6,67,2014,15.9468946874506,-14.390337325338512
+ST-SÉN-007,Station Sénégal 8,Sénégal,Commune 8,Puits moderne,En maintenance,11.9,90,2009,15.445572269876585,-15.895318603217527
+ST-SÉN-008,Station Sénégal 9,Sénégal,Commune 9,Puits moderne,En panne,17.8,103,2023,15.02729003023278,-14.189563340655953
+ST-SÉN-009,Station Sénégal 10,Sénégal,Commune 10,Château d'eau,Fonctionnel,6.2,148,2016,14.297991594853137,-15.486635180788399
+ST-SÉN-010,Station Sénégal 11,Sénégal,Commune 11,Puits moderne,En maintenance,12.6,142,2007,15.513944572572202,-15.520832794008939
+ST-SÉN-011,Station Sénégal 12,Sénégal,Commune 12,Puits moderne,En maintenance,14.7,97,2022,15.409968095927102,-13.774614583694154
+ST-SÉN-012,Station Sénégal 13,Sénégal,Commune 13,Forage,En maintenance,9.0,118,2011,14.72352279779601,-13.099889735392503
+ST-SÉN-013,Station Sénégal 14,Sénégal,Commune 14,Château d'eau,En panne,13.8,80,2023,14.129464503116345,-13.579200064784777
+ST-SÉN-014,Station Sénégal 15,Sénégal,Commune 15,Château d'eau,Fonctionnel,8.2,53,2015,13.719470397314966,-12.98631623158175
+ST-SÉN-015,Station Sénégal 16,Sénégal,Commune 16,Château d'eau,Fonctionnel,9.1,65,2022,13.837823848866368,-15.87256711687245
+ST-SÉN-016,Station Sénégal 17,Sénégal,Commune 17,Château d'eau,En panne,5.1,122,2021,13.410667472397614,-13.939490944856866
+ST-SÉN-017,Station Sénégal 18,Sénégal,Commune 18,Puits moderne,Fonctionnel,14.0,30,2017,15.178677413738303,-14.31391777549118
+ST-SÉN-018,Station Sénégal 19,Sénégal,Commune 19,Château d'eau,En panne,7.7,107,2021,15.184188707280885,-14.538376061927405
+ST-SÉN-019,Station Sénégal 20,Sénégal,Commune 20,Château d'eau,En maintenance,2.6,137,2008,13.44284122424534,-15.083758777183823
+ST-TOG-000,Station Togo 1,Togo,Commune 1,Château d'eau,En maintenance,11.8,51,2007,7.586357027402135,1.4151145609620601
+ST-TOG-001,Station Togo 2,Togo,Commune 2,Puits moderne,En maintenance,2.8,122,2018,8.776166738295018,1.99959631667315
+ST-TOG-002,Station Togo 3,Togo,Commune 3,Puits moderne,Fonctionnel,7.2,149,2006,7.525641099715343,0.9849810806853427
+ST-TOG-003,Station Togo 4,Togo,Commune 4,Château d'eau,En panne,17.7,57,2009,8.247775201198854,1.536386433848884
+ST-TOG-004,Station Togo 5,Togo,Commune 5,Forage,En maintenance,13.8,60,2012,9.281015865299025,2.1043918766990277
+ST-TOG-005,Station Togo 6,Togo,Commune 6,Château d'eau,En maintenance,6.2,89,2018,9.920400116523956,-0.37966557888409613
+ST-TOG-006,Station Togo 7,Togo,Commune 7,Puits moderne,Fonctionnel,12.7,38,2017,8.164378444409325,-0.4102362403743245
+ST-TOG-007,Station Togo 8,Togo,Commune 8,Puits moderne,En maintenance,2.8,88,2005,7.9456972600805305,2.0743545628639026
+ST-TOG-008,Station Togo 9,Togo,Commune 9,Forage,En maintenance,3.5,55,2012,9.887008118601402,-0.631420402916685
+ST-TOG-009,Station Togo 10,Togo,Commune 10,Puits moderne,En maintenance,12.1,75,2012,9.661575520685432,1.0821247661313784
+ST-TOG-010,Station Togo 11,Togo,Commune 11,Puits moderne,Fonctionnel,3.4,146,2017,7.513421089193439,1.2880853952891085
+ST-TOG-011,Station Togo 12,Togo,Commune 12,Château d'eau,Fonctionnel,7.1,96,2014,7.497761627119378,1.9297485137485413
+ST-TOG-012,Station Togo 13,Togo,Commune 13,Château d'eau,En panne,8.6,88,2018,9.15679356567992,-0.046831075521705845
+ST-TOG-013,Station Togo 14,Togo,Commune 14,Château d'eau,En maintenance,11.6,130,2016,9.64894164356026,1.4763366751979026
+ST-TOG-014,Station Togo 15,Togo,Commune 15,Forage,Fonctionnel,7.9,114,2010,9.246985618145738,1.474046819197676
+ST-TOG-015,Station Togo 16,Togo,Commune 16,Forage,Fonctionnel,14.4,91,2016,8.551958661483944,1.4828603429427096
+ST-TOG-016,Station Togo 17,Togo,Commune 17,Forage,En maintenance,14.2,133,2021,9.49222133044032,1.7993539715472353
+ST-TOG-017,Station Togo 18,Togo,Commune 18,Forage,En panne,7.8,43,2013,9.764082182062033,0.5250877179208613
+ST-TOG-018,Station Togo 19,Togo,Commune 19,Puits moderne,En panne,5.7,104,2010,7.437125118665266,1.0683977053137421
+ST-TOG-019,Station Togo 20,Togo,Commune 20,Château d'eau,En maintenance,13.5,32,2023,8.937897286457604,-0.3534134685338364
