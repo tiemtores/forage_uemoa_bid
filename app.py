@@ -114,7 +114,7 @@ if not filtered_df.empty:
 else:
     center_lat, center_lon, zoom = 12.0, 2.0, 5
 
-m = folium.Map(location=[center_lat, center_lon], zoom_start=zoom, tiles="cartodbpositron")
+m = folium.Map(location=[center_lat, center_lon], zoom_start=zoom, tiles="OpenStreetMap")
 m.add_child(Fullscreen())
 
 marker_cluster = MarkerCluster(name="Forages").add_to(m)
